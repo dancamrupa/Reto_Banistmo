@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ingreso al portal de Bancolombia" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-04T22:34:20" hostname="CAMILORUIZ" time="29.762">
+  <properties/>
+  <testcase name="Visualizar la tasa nominal efectiva" classname="Ingreso al portal de Bancolombia" time="29.762"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[dic. 04, 2024 5:34:21 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ADVERTENCIA: Unable to find an exact match for CDP version 131, returning the closest version; found: 130; Please update to a Selenium version that supports CDP version 131
+]]></system-err>
+</testsuite>

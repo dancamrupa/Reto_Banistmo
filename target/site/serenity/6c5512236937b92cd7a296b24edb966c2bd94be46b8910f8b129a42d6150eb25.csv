@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Ingreso al portal de Bancolombia","Visualizar la tasa nominal efectiva","ERROR","2024-12-04T17:28:51.6284851-05:00[America/Bogota]","0.0","4.93"
+"Ingreso al portal de Bancolombia","Visualizar la tasa nominal efectiva","SUCCESS","2024-12-04T17:34:20.4314404-05:00[America/Bogota]","0.0","5.75"
